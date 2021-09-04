@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l-1cm-l
 - 👀 I’m interested in Swift,JavaScript
-- 🌱 I’m currently learning Java,
+- 🌱 I’m currently learning Java,SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
